@@ -10,8 +10,8 @@ int main() {
 	printf("%d\n", result);
 
 	// This will return 25.
-	int result = SQUARE((3+2));
-	printf("%d\n", result);
+	int result2 = SQUARE((3+2));
+	printf("%d\n", result2);
 
 	return 0;
 
